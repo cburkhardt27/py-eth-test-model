@@ -1,0 +1,4 @@
+name A100
+powerDraw 250
+price 30000
+hashRate 170

@@ -1,0 +1,22 @@
+y = 3264 - 115.6t + 11.81t^2
+
+(2, 3,000)
+(14, 4,200)
+(26, 8,000)
+(38, 16,000)
+
+
+https://www.omnicalculator.com/statistics/quadratic-regression
+https://www.crypto-rating.com/forecasts/ethereum-price-prediction-2025-2030/
+
+
+ETH Network Hash Rate
+https://ycharts.com/indicators/ethereum_network_hash_rate
+
+jul 1 - 487.72 TH
+jan1 - 931.22
+
+slope = 73.91 TH/s / month
+
+Starting on February 1, 2022 (remember t starts at 2, and when t=2, y = 1008)
+y = 73.91t + 860
